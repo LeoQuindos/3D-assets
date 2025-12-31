@@ -1,1 +1,1 @@
-genral 3d assets for webapps
+general 3d assets for webapps
